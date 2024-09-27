@@ -45,8 +45,10 @@ cv1-lab-4/
 │
 ├── images/
 │   └── (images used in the exercises)
+├── panorama_images/
+│   └── (images used in the panorama exercises)
 ├── cv1_environment.yaml
-├── cv1-lab-4-solutions.ipynb
+├── cv1-lab-4.ipynb
 ├── LICENSE
 └── README.md
 ```
